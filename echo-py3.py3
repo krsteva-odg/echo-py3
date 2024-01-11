@@ -5,6 +5,7 @@ import sys as sys
 def action(datum):
 	sys.stdout.flush()
 	print(datum)
+	print(datum)
 
 	yield datum
 
@@ -14,4 +15,3 @@ def dict_metrics(datum):
 		"foo": 1,
 		"bar": "test result"
 	}
-
