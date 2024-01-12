@@ -5,18 +5,11 @@ import sys as sys
 def action(datum):
 	sys.stdout.flush()
 	print(datum)
-	print(datum)
-	print(datum)
-	print(datum)
-	print(1)
-	# try to reproduce
-	# Detect change
 
 	yield datum
 
 # modelop.metrics
 def dict_metrics(datum):
-	# A new commit after reset
 	yield {
 		"foo": 1,
 		"bar": "test result"
