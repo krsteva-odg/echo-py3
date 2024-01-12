@@ -7,7 +7,6 @@ def action(datum):
 	print(datum)
 	print(datum)
 	print(datum)
-	print(datum)
 
 	yield datum
 
