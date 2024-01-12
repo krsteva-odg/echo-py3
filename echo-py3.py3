@@ -8,6 +8,7 @@ def action(datum):
 	print(datum)
 	print(datum)
 	print(datum)
+	# try to reproduce
 	# Detect change
 
 	yield datum
