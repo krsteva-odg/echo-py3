@@ -8,6 +8,7 @@ def action(datum):
 	print(datum)
 	print(datum)
 	print(datum)
+	print(1)
 	# try to reproduce
 	# Detect change
 
