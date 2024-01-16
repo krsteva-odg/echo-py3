@@ -3,6 +3,7 @@ import sys as sys
 
 # modelop.score
 def action(datum):
+	# after reset 1
 	sys.stdout.flush()
 	print(datum)
 
