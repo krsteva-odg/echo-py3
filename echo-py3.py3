@@ -11,6 +11,7 @@ def action(datum):
 
 # modelop.metrics
 def dict_metrics(datum):
+	# reset 3
 	# commit after reset for 1
 	# commit again 2
 	print(datum)
