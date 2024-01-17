@@ -6,6 +6,7 @@ def action(datum):
 	sys.stdout.flush()
 	print(datum)
 	print(datum)
+	# commit 4
 
 	yield datum
 
