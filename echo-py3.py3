@@ -6,6 +6,7 @@ def action(datum):
 	sys.stdout.flush()
 	# before commit 2
 	print(datum)
+	# prod
 
 	yield datum
 
