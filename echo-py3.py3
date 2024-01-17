@@ -14,6 +14,7 @@ def action(datum):
 # modelop.metrics
 def dict_metrics(datum):
 # another commit for 1
+# another commit for 2
 	yield {
 		"foo": 1,
 		"bar": "test result"
