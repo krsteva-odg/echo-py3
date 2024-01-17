@@ -15,6 +15,7 @@ def action(datum):
 def dict_metrics(datum):
 # another commit for 1
 # another commit for 2
+# another commit for 3
 	yield {
 		"foo": 1,
 		"bar": "test result"
