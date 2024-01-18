@@ -12,6 +12,7 @@ def action(datum):
 # modelop.metrics
 def dict_metrics(datum):
 # after reset 1
+# after reset 1
 	yield {
 		"foo": 1,
 		"bar": "test result"
