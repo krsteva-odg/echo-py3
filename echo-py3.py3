@@ -1,10 +1,10 @@
 import sys as sys
 
+# before reset 2
 
 # modelop.score
 def action(datum):
 	sys.stdout.flush()
-	print(datum)
 	print(datum)
 
 	yield datum
