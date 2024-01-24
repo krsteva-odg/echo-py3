@@ -7,6 +7,8 @@ def action(datum):
 
 	yield datum
 
+# after reset commit 2
+
 # modelop.metrics
 def dict_metrics(datum):
 	# after reset commit 1
