@@ -7,6 +7,7 @@ def action(datum):
 
 	yield datum
 
+# single commit, no reset
 # after reset commit 2
 # after reset commit 3
 # single commit, no reset
