@@ -4,10 +4,6 @@ import sys as sys
 def action(datum):
 	sys.stdout.flush()
 	print(datum)
-	# commit 1
-	# commit 2
-	# commit 3
-	# commit 4
 
 	yield datum
 
