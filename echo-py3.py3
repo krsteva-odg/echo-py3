@@ -9,6 +9,7 @@ def action(datum):
 
 # after reset commit 2
 # after reset commit 3
+# single commit, no reset
 
 # modelop.metrics
 def dict_metrics(datum):
