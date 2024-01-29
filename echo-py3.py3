@@ -6,6 +6,7 @@ def action(datum):
 	print(datum)
 	# after reset 1
 	# after reset 2
+	# after reset 3
 
 	yield datum
 
