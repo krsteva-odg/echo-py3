@@ -4,9 +4,6 @@ import sys as sys
 def action(datum):
 	sys.stdout.flush()
 	print(datum)
-	# after reset 1
-	# after reset 2
-	# after reset 3
 
 	yield datum
 
