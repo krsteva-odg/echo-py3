@@ -12,6 +12,7 @@ def action(datum):
 def dict_metrics(datum):
 # after reset 1
 # after reset 3
+# after reset 4
 	yield {
 		"foo": 1,
 		"bar": "test result"
