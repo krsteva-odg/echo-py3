@@ -1,4 +1,5 @@
 import sys as sys
+# after reset 3
 
 # modelop.score
 def action(datum):
