@@ -4,14 +4,11 @@ import sys as sys
 def action(datum):
 	sys.stdout.flush()
 	print(datum)
-	# after reset 1
 
 	yield datum
 
 # modelop.metrics
 def dict_metrics(datum):
-# after commit 2
-# after commit 3
 	yield {
 		"foo": 1,
 		"bar": "test result"
