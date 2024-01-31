@@ -4,6 +4,7 @@ import sys as sys
 def action(datum):
 	sys.stdout.flush()
 	print(datum)
+	# reset commit 2
 
 	yield datum
 
