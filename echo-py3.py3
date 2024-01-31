@@ -4,6 +4,7 @@ import sys as sys
 def action(datum):
 	sys.stdout.flush()
 	print(datum)
+	# after commit 1
 
 	yield datum
 
