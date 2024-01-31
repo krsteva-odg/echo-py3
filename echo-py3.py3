@@ -7,6 +7,7 @@ def action(datum):
 	# again
 	# again commit 2
 # hi 9:30
+# commit 4 after reset
 	yield datum
 
 # modelop.metrics
