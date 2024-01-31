@@ -7,6 +7,7 @@ def action(datum):
 	# after commit 1
 	# after commit 2
 	# after commit 3
+	# commit 4
 
 	yield datum
 
