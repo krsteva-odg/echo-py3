@@ -4,7 +4,6 @@ import sys as sys
 def action(datum):
 	sys.stdout.flush()
 	print(datum)
-	# after reset 2
 
 	yield datum
 
